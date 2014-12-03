@@ -1,4 +1,4 @@
-Home Automation System
+Home Automation System Using Meteor JS
 =============================
-
-Home Automation System helps you control all the electronic device of your home using any smart device from anywhere.
+---
+It provides you centralized control all the electronic device of your home, using any smart device.
