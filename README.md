@@ -1,3 +1,13 @@
-# Home Automation System Using Meteor JS #
+# Home Automation System Using Meteor #
 
-> It provides you centralized control all the electronic device of your home, using any smart device.
+It combines the capabilities of raspberry pi along with the reactive nature of Meteor.
+
+> It provides you Centralized Control of all your home electronic systems, using any smart device.
+
+ ========================================
+#### IOT Using Meteor
+
+This is the official documentation of the Home Automation Project...  a version of Meteor designed for controlling electronic devices and other smart devices.
+
+
+
